@@ -1,3 +1,5 @@
 Train.csv filter=lfs diff=lfs merge=lfs -text
 DataSet/Train.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/hp/OneDrive/Github/Azubi_Capestone* filter=lfs diff=lfs merge=lfs -text
+Modes/random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
 Models/random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
